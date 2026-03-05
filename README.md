@@ -73,7 +73,6 @@ Here are some of the tools I use to build secure and efficient systems:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Post--Quantum_Crypto-00FFFF?style=for-the-badge&logo=quantum&logoColor=black" />
-[Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 </p>
 
 ---
