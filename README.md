@@ -34,7 +34,7 @@ I spend my time messing with **post-quantum cryptography (PQC)**. I believe the 
 
 ## 🧪 Current Focus: Post-Quantum R&D
 
-I'm actively experimenting with hybrid cryptographic models to ensure forward secrecy. My current sandbox explores combining traditional Ed25519 signatures with NIST's PQC finalists to create a "best-of-both-worlds" security layer for applications like `Haven` [citation:4][citation:8].
+I'm actively experimenting with hybrid cryptographic models to ensure forward secrecy. My current sandbox explores combining traditional Ed25519 signatures with NIST's PQC finalists to create a "best-of-both-worlds" security layer for applications like `Haven`.
 
 <details>
   <summary>🔬 Click to see my PQC experimentation stack</summary>
