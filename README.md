@@ -53,13 +53,6 @@ I'm actively experimenting with hybrid cryptographic models to ensure forward se
 ## 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <a href="https://github.com/lewallen4">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lewallen4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewallen4&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=lewallen4&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
