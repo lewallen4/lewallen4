@@ -147,7 +147,7 @@ I'm always open to collaborating on projects related to cybersecurity, cryptogra
 ---
 
 <p align="center">
-  <sub>✨ Last updated: Automatically refreshed via GitHub Actions ✨</sub>
+  <sub>✨ Last updated: 2026 ✨</sub>
   <br>
   <sub>Built with ❤️ and a focus on a quantum-safe tomorrow.</sub>
 </p>
