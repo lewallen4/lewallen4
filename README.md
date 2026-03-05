@@ -95,7 +95,7 @@ Here are a few of my public repositories that I'm most proud of:
         <h3 align="center">Haven</h3>
         <p align="center">
           <a href="https://github.com/lewallen4/Haven" title="Haven Repo">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=lewallen4&repo=Haven&theme=tokyonight&hide_border=true" />
+            "H"
           </a>
         </p>
         <p align="center">A self-hosted, end-to-end encrypted chat client for private communication.</p>
@@ -104,7 +104,7 @@ Here are a few of my public repositories that I'm most proud of:
         <h3 align="center">Cloudsy</h3>
         <p align="center">
           <a href="https://github.com/lewallen4/Cloudsy" title="Cloudsy Repo">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=lewallen4&repo=Cloudsy&theme=tokyonight&hide_border=true" />
+            "C"
           </a>
         </p>
         <p align="center">Bash based lightweight weather viewer. Simple, fast, from the terminal.</p>
@@ -115,7 +115,7 @@ Here are a few of my public repositories that I'm most proud of:
         <h3 align="center">CVE-Enumerator</h3>
         <p align="center">
           <a href="https://github.com/lewallen4/CVE-Enumerator" title="CVE-Enumerator Repo">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=lewallen4&repo=CVE-Enumerator&theme=tokyonight&hide_border=true" />
+             "C"
           </a>
         </p>
         <p align="center">A lightweight CVE viewer to stay on top of vulnerabilities.</p>
@@ -124,7 +124,7 @@ Here are a few of my public repositories that I'm most proud of:
         <h3 align="center">Watcher</h3>
         <p align="center">
           <a href="https://github.com/lewallen4/Watcher" title="Watcher Repo">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=lewallen4&repo=Watcher&theme=tokyonight&hide_border=true" />
+            "W"
           </a>
         </p>
         <p align="center">King County - Seattle Area Vote Watcher for civic engagement.</p>
@@ -152,10 +152,6 @@ I'm always open to collaborating on projects related to cybersecurity, cryptogra
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lewallen4/lewallen4/output/snake.svg" alt="Snake animation" />
-</div>
 
 <p align="center">
   <sub>✨ Last updated: Automatically refreshed via GitHub Actions ✨</sub>
