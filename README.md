@@ -140,7 +140,7 @@ Here are a few of my public repositories that I'm most proud of:
 I'm always open to collaborating on projects related to cybersecurity, cryptography, and privacy tools. If you're working on something cool, or just want to chat about the future of secure communication, reach out!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lewallen4">
+  <a href="https://www.linkedin.com/in/skyelewallen">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lewallen4@gmail.com">
@@ -149,10 +149,6 @@ I'm always open to collaborating on projects related to cybersecurity, cryptogra
   <a href="https://github.com/lewallen4">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <i>"Privacy is not an option, and it shouldn't be the price we accept for getting services." - Brian Acton</i>
 </p>
 
 ---
