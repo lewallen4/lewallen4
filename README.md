@@ -44,7 +44,6 @@ I'm actively experimenting with hybrid cryptographic models to ensure forward se
     <img src="https://img.shields.io/badge/Dilithium-256-00FFFF?style=flat-square&logo=security&logoColor=white" />
     <img src="https://img.shields.io/badge/SPHINCS%2B-256-00FFFF?style=flat-square&logo=hashnode&logoColor=white" />
     <img src="https://img.shields.io/badge/Ed25519-Signature-00FFFF?style=flat-square&logo=key&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenSSL-Quantum_Safe-00FFFF?style=flat-square&logo=openssl&logoColor=white" />
   </p>
 </details>
 
