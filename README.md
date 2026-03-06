@@ -18,7 +18,7 @@ This README appears on your GitHub profile because you're awesome.
 
 ---
 
-## 👩‍💻 About Me: Quantum-Resistant Efficiency
+## 👩‍💻 About Me: Quantum-Resistant Lightweight Specialist 
 
 I'm a **Cybersecurity Analyst** and the creator of **Haven**, **Cloudsy** and more, based in Seattle. My mission is simple yet critical: **to connect people efficiently and securely** in a world where privacy is paramount and the future is quantum and AI driven.
 
