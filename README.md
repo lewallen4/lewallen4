@@ -44,7 +44,6 @@ I'm actively experimenting with hybrid cryptographic models to ensure forward se
     <img src="https://img.shields.io/badge/Dilithium-256-00FFFF?style=flat-square&logo=security&logoColor=white" />
     <img src="https://img.shields.io/badge/SPHINCS%2B-256-00FFFF?style=flat-square&logo=hashnode&logoColor=white" />
     <img src="https://img.shields.io/badge/Ed25519-Signature-00FFFF?style=flat-square&logo=key&logoColor=white" />
-  </p>
 </details>
 
 ---
@@ -71,7 +70,6 @@ Here are some of the tools I use to build secure and efficient systems:
   <img src="https://img.shields.io/badge/PGP-0093DD?style=for-the-badge&logo=privacy&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Post--Quantum_Crypto-00FFFF?style=for-the-badge&logo=quantum&logoColor=black" />
 
 </p>
 
