@@ -26,7 +26,7 @@ I spend my time messing with **post-quantum cryptography (PQC)**. I believe the 
 
 🔭 **I'm currently working on:**
 - **[Haven](https://github.com/lewallen4/Haven):** A self-hosted, end-to-end encrypted chat client designed to put control back in the users' hands.
-- **[Cloudsy](https://github.com/lewallen4/Cloudsy):** A lightweight, Bash-based weather viewer that's all about simplicity and efficiency.
+- **[Fade](https://github.com/lewallen4/fade):** An automated agentic upgrade mechanism, helping agents work safer.
 
 💬 **Ask me about:** Post-quantum encryption, cybersecurity best practices, securing open-source projects, or BASH.
 
