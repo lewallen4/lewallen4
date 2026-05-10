@@ -92,13 +92,13 @@ Here are a few of my public repositories that I'm most proud of:
         <p align="center">A self-hosted, end-to-end encrypted chat client for private communication.</p>
       </td>
       <td width="50%">
-        <h3 align="center">Cloudsy</h3>
+        <h3 align="center">Fade</h3>
         <p align="center">
-          <a href="https://github.com/lewallen4/Cloudsy" title="Cloudsy Repo">
+          <a href="https://github.com/lewallen4/fade" title="Fade">
             "C"
           </a>
         </p>
-        <p align="center">Bash based lightweight weather viewer. Simple, fast, from the terminal.</p>
+        <p align="center">An automated agentic upgrade mechanism, helping agents work safer.</p>
       </td>
     </tr>
     <tr>
