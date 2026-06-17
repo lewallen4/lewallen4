@@ -51,7 +51,7 @@ I'm actively experimenting with hybrid cryptographic models to ensure forward se
 ## 📊 GitHub Stats & Metrics
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=lewallen4)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lewallen4)](https://git.io/streak-stats)
 
 
 ---
